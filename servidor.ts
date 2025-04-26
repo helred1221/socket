@@ -1,6 +1,6 @@
 import * as net from 'net';
 
-const porta: number = 3011;
+const porta: number = 3001;
 
 interface ProdutoInterface {
   titulo: string,

@@ -11,7 +11,7 @@ const produto: Produto = {
 }
 
 const cliente: net.Socket = net.createConnection({
-    host: '172.23.135.138',
+    host: '127.0.0.1',
     port: 3001
 });
 
